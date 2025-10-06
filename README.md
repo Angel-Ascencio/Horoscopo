@@ -1,16 +1,16 @@
-# React + Vite
+# Horóscopo React PWA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web progresiva que calcula tu signo zodiacal basado en tu fecha de nacimiento. Muestra tu signo, su símbolo e información personalizada.
 
-Currently, two official plugins are available:
+**Demo:** https://68e372ce2d1c5bdb103b36eb--sensational-choux-f9caa6.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías
+- React 19.1.1
+- Vite 7.1.7
+- PWA
 
-## React Compiler
+## INSTALAR
+- yarn
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Desarrollado en
+Visual Studio Code 1.103.2
